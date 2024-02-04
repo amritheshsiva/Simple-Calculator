@@ -18,8 +18,7 @@ A basic calculator web application built with HTML, CSS, and JavaScript. This pr
 
 ## Preview
 
-![Calculator Preview](![image](https://github.com/amritheshsiva/Simple-Calculator/assets/94913836/5beda450-320b-4680-ac14-4441d5782389)
-)
+![Calculator Preview](SimpleCalc.jpeg)
 
 ## Technologies Used
 
