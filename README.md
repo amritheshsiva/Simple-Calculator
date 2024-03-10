@@ -7,6 +7,11 @@ A basic calculator web application built with HTML, CSS, and JavaScript. This pr
 - Addition, subtraction, multiplication, and division operations.
 - Responsive design for a better user experience on various devices.
 - Error handling for invalid input and mathematical operations.
+  
+## Live Demo
+
+Check out the live demo: [Simple_Calculator](https://simple-calculator-vert-omega.vercel.app/)
+
 
 ## How to Use
 
